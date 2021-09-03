@@ -1,4 +1,4 @@
-    firstProject - A free template to use onyour webpages
+    firstProject - A free template to use on your own webpages
     Copyright (C) 2021  Jacob Schmidt
 
     This program is free software: you can redistribute it and/or modify
